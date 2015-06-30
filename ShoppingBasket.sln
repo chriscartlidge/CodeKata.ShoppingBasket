@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasket", "ShoppingBasket.csproj", "{10579F5C-E654-4C46-ABD7-FD44D088ED02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasket", "src\ShoppingBasket.csproj", "{10579F5C-E654-4C46-ABD7-FD44D088ED02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasket.Tests", "ShoppingBasket.Tests\ShoppingBasket.Tests.csproj", "{367A6A8A-C80D-41C1-84C6-5547F827F6F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasket.Tests", "test\ShoppingBasket.Tests\ShoppingBasket.Tests.csproj", "{367A6A8A-C80D-41C1-84C6-5547F827F6F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -44,7 +44,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ShoppingBasket.csproj">
+    <ProjectReference Include="..\..\src\ShoppingBasket.csproj">
       <Project>{10579F5C-E654-4C46-ABD7-FD44D088ED02}</Project>
       <Name>ShoppingBasket</Name>
     </ProjectReference>
