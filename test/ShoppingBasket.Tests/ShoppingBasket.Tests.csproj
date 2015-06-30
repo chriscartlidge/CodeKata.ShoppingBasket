@@ -30,7 +30,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="nunit.framework">
-      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+      <HintPath>..\..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -44,7 +44,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\ShoppingBasket.csproj">
+    <ProjectReference Include="..\..\src\ShoppingBasket\ShoppingBasket.csproj">
       <Project>{10579F5C-E654-4C46-ABD7-FD44D088ED02}</Project>
       <Name>ShoppingBasket</Name>
     </ProjectReference>
